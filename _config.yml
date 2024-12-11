@@ -1,0 +1,15 @@
+title: 'botanophobia devlog'
+description: "A group blog about developing an indie game."
+baseurl: "/botanophobia-devlog"
+url: "https://oculometric.github.io"
+
+header_pages:
+  - index.md
+
+style: dark
+
+footer: 'i should probably put some links here, huh'
+
+# Build settings
+markdown: kramdown
+remote_theme: b2a3e8/jekyll-theme-console
